@@ -1,0 +1,9 @@
+When I first began tackling Code Wars challenges, I found them incredibly difficult. The problems often felt overwhelming, and I struggled to even understand where to begin. My initial attempts involved a lot of trial and error, and I frequently had to look up solutions or rely on hints just to make progress. It was discouraging at times, but I reminded myself that learning any new skill takes patience and perseverance.
+
+As I continued practicing, something began to change. I started recognizing patterns in the challenges and the logic behind solving them. Concepts that initially felt abstract, like working with arrays, objects, or loops, began to click. Each solved challenge, no matter how small, boosted my confidence and motivated me to keep pushing forward.
+
+I also learned the importance of breaking problems into smaller, manageable pieces. Instead of trying to solve the entire challenge at once, I began focusing on one step at a time. This approach helped me build my problem-solving skills and develop a better understanding of how different parts of code interact.
+
+With consistent effort, I’ve reached a point where I can solve many challenges on my own without relying on external help. While some problems still push me out of my comfort zone, I now view them as opportunities to grow rather than obstacles. Code Wars has not only improved my technical skills but also taught me the value of persistence and the satisfaction that comes from overcoming a tough challenge.
+
+I’m proud of how far I’ve come and excited to continue honing my skills through practice. Each challenge is a step closer to becoming the proficient coder I aspire to be.
