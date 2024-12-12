@@ -10,4 +10,4 @@ const camelCase = function (str) {
   }
   return result;
 };
-// console.log(camelCase("camelCaseTesting"));
+console.log(camelCase("camelCaseTesting"));
